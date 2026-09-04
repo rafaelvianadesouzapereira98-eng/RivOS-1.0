@@ -5,7 +5,7 @@
   "tipo_pacote": "ROPK",
   "autor": "RivOS Team",
   "entrada": "index.html",
-  "icone": "assets/RivBrowsericon.svg",
+  "icone": "Assets/RivBrowsericon.svg",
   "permissoes": [
     "network",
     "storage"
